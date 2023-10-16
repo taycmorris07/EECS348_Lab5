@@ -2,7 +2,7 @@
 EECS 348 Lab 5
 Tatum Morris 
 3062485
-Description: 
+Description: Take in an array of numbers and print out various information of sales data relating to the given numbers and months. 
 Date: 10/12/2023
 */
 
